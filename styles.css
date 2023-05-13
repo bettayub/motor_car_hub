@@ -28,8 +28,26 @@ li button{
     float: left;
     width: 33.33%;
     margin-bottom: 70px;
+    padding: 15px;
 }
 .container{
     float: left;
     clear: left;
+    margin-left: 50px;
+}
+#button1{
+    border-radius: 6px;
+    color: solid black;
+   background-color: orangered;
+   border: 1px solid orangered;
+   padding: 10px;
+}
+#button2{
+    border-radius: 6px;
+    color: orangered;
+   background-color: white;
+   border: 1px solid orangered;
+   padding: 10px;
+
+
 }

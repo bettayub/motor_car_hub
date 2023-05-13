@@ -3,7 +3,7 @@
    
     
 }
-li {
+.nav-bar li {
     display: inline-block;
     padding: 15px; 
     font-weight: 400;
@@ -11,12 +11,48 @@ li {
     
 
 }
-li button{
+.nav-bar li button{
     border-radius: 10px;
     background-color:orangered;
     border: none;
     padding: 5px 15px;
     font-weight: bold;
+}
+.row1{
+    height: 600px;
+}
+.icons-columns {
+    display: inline;
+    list-style: none;
+    padding: 20px;
+}
+.icons-btn{
+    padding: 10px 25px;
+    border-radius: 3px;
+    background-color: white;
+    border: 0.5px solid grey;
+    font-weight: 600;
+    margin-right: 50px;
+}
+.mercedes {
+    background-color: orangered;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 3px;
+    font-weight: 300;
+    margin-right: 50px;
+    
+}
+.row-cars{
+width: 33.33%;
+align-items: center;
+
+        
+}
+.column4 li {
+    display: inline;
+    list-style: none;
+    padding: 25px;
 }
 .column1{
     float: left;
@@ -30,30 +66,63 @@ li button{
     margin-bottom: 70px;
     padding: 15px;
 }
-.row{
+.column4{
     float: left;
     clear: left;
-    margin-left: 50px;
+    margin-left: 30px;
 }
 #button1{
     border-radius: 6px;
     color: solid black;
    background-color: orangered;
    border: 1px solid orangered;
-   padding: 10px;
+   padding: 15px;
 }
 #button2{
     border-radius: 6px;
     color: orangered;
    background-color: white;
    border: 1px solid orangered;
-   padding: 10px;
+   padding: 15px;
 }
 img{
-width: 700px;
-height: 500px;
-margin-left: 200px;
-margin-bottom: 300px;
+width: 600px;
+height: 400px;
+margin-left: 400px;
+margin-bottom: 800px;
+border-bottom: 2px solid white;
+box-shadow: 5px 10px 10px gray;
+background-color: white;
+
 }
 
+.coll1{
+    float: left;
+    width: 22%;
+    margin-left: 30px;
+}
+.coll2{
+    float: left;
+    width: 25%;
+}.coll3{
+    float: left;
+    width: 25%;
+}.coll4{
+    float: left;
+    width: 25%;
+}
+input {
+    border: 3px solid orangered;
+    display: list-item;
+    padding: 10px;
+    flex-direction: column;
+    margin: 8px 0;
 
+}
+.submit {
+    background-color: orangered;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 19px;
+
+}

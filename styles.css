@@ -39,15 +39,59 @@ color: orangered;
     font-weight: 600;
     margin-right: 50px;
 }
-.mercedes {
+#mercedes {
+    width: 40px;
+    height: 40px;
+    border: 5px solid none;
+    border-radius: 10px;
     background-color: orangered;
-    padding: 10px 25px;
-    border: none;
-    border-radius: 3px;
-    font-weight: 300;
-    margin-right: 50px;
-    
 }
+
+#audi {
+    width: 40px;
+    height: 40px;
+    border: 5px solid none;
+    border-radius: 10px;
+}
+
+#honda {
+    width: 40px;
+    height: 40px;
+    border: 5px solid none;
+    border-radius: 10px;
+}
+
+#toyota{
+    width: 40px;
+    height: 40px;
+    border: 5px solid none;
+    border-radius: 10px;
+}
+
+#mazda{
+    width: 40px;
+    height: 40px;
+    border: 5px solid none;
+    border-radius: 10px;
+}
+#car1{
+border: none;
+border-radius: 10px;
+font-weight: 800;
+background-color: orangered;
+padding: 1px 30px;
+}
+
+#car{
+background-color: white;
+border-radius: 10px;
+padding: 1px 3opx;
+margin: 8px;
+border: 1px solid lightgray;
+
+}
+#ben{float: right;}
+
 .column-cars{
     float:left;
     width: 30%;

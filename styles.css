@@ -43,16 +43,39 @@
     margin-right: 50px;
     
 }
-.row-cars{
-width: 33.33%;
-align-items: center;
+.column-cars{
+    float:left;
+    width: 30%;
+    padding: 10px;
+    padding-top:90px;
+    margin-left: 30px;
 
-        
 }
+.card{
+    box-shadow: burlywood;
+    border-radius: 6px;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 black;
+   height: 450px;
+}
+.car-image {
+    width: 100%;
+}
+.more-info{
+background-color: orangered;
+border-radius: 5px;
+border:none ;
+padding: 10px 12px;
+font: 500px;
+
+
+
+}
+
 .column4 li {
     display: inline;
     list-style: none;
-    padding: 25px;
+    padding: 30px;
 }
 .column1{
     float: left;
@@ -85,7 +108,7 @@ align-items: center;
    border: 1px solid orangered;
    padding: 15px;
 }
-img{
+.profile{
 width: 600px;
 height: 400px;
 margin-left: 400px;
@@ -125,4 +148,12 @@ input {
     border: none;
     padding: 5px 19px;
 
+}
+.col-client{
+    float: left;
+
+}
+.row11{
+  display: flex;
+  clear: left;
 }

@@ -79,16 +79,17 @@ border: none;
 border-radius: 10px;
 font-weight: 800;
 background-color: orangered;
-padding: 1px 30px;
+padding: 10px 30px;
+margin: 20px;
 }
 
 #car{
 background-color: white;
 border-radius: 10px;
-padding: 1px 3opx;
+padding: 10px 30px;
 margin: 8px;
 border: 1px solid lightgray;
-
+margin: 20px;
 }
 #ben{float: right;}
 
@@ -116,11 +117,14 @@ border-radius: 5px;
 border:none ;
 padding: 10px 12px;
 font: 500px;
-
-
+margin-top: 40px;
 
 }
+.image-text{
 
+display: inline;
+margin: 40px;
+}
 .column4 li {
     display: inline;
     list-style: none;
@@ -236,7 +240,7 @@ margin:10px;
 }
 
 .column10{
-    background-color: rgb(184, 154, 115); 
+    background-color: antiquewhite; 
     text-align: center;
     height: 30px;
     padding-bottom: 200px;

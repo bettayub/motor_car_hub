@@ -156,4 +156,7 @@ input {
 .row11{
   display: flex;
   clear: left;
+  width: 100vw;
+  border: 30px;
+  padding-top: 30px;
 }

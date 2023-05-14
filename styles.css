@@ -169,9 +169,16 @@ margin:10px;
 .mobile{
 display: flex;
 text-align: center;
+
 }
 .mobile2{
-
-
+ clear: both;                                               
+height: 10vh;
 }
 
+.row--1{
+    background-color: rgb(184, 154, 115);
+    height:40vh;
+    
+
+}

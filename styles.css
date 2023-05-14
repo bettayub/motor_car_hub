@@ -162,5 +162,16 @@ input {
 }
 #customer{
     text-align: center;
+padding: 10px;
+margin:10px;
 
 }
+.mobile{
+display: flex;
+text-align: center;
+}
+.mobile2{
+
+
+}
+

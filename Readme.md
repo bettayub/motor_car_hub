@@ -25,7 +25,7 @@ git push origin master
 
 ```
 ## Website Image
-#### <img width="169" alt="car-rental 1" src="https://github.com/bettayub/motor_car_hub/assets/132656282/7ecb3c28-da8e-4051-b934-b5efc5817632">
+#### <img width="1440" alt="Landing-page (copy)" src="https://github.com/bettayub/motor_car_hub/assets/132656282/37ac44ed-383e-4a8c-aa2a-07da4a6426c9">
 
 
 

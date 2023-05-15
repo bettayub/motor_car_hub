@@ -11,6 +11,7 @@
 ###### HTML
 ###### GIT TOOL
 ###### GITHUB
+###### VSCODE
 
 
 ### To view my project set up,follow the steps provided below:
@@ -23,11 +24,18 @@ git commit -m "initial message"
 git push origin master
 
 ```
+## Website Image
+#### <img width="169" alt="car-rental 1" src="https://github.com/bettayub/motor_car_hub/assets/132656282/7ecb3c28-da8e-4051-b934-b5efc5817632">
+
+
+
 ### Link to my live page
 
 #### https://bettayub.github.io/motor_car_hub
 
 
+### Contact and support info
+#### for more information reach out on gmail bettayub19@gmail.com
 
 
 
